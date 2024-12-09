@@ -1,0 +1,4 @@
+https://www.kaggle.com/code/aayushmishra1512/emotion-detector
+
+conda install --solver=classic conda-forge::conda-libmamba-solver conda-forge::libmamba conda-forge::libmambapy conda-forge::libarchive
+
